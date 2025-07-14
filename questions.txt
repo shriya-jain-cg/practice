@@ -1,0 +1,24 @@
+| Category                | Question                                                                                                              | Notes                                               |
+|-------------------------|-----------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|
+| Python Core & Advanced  | How do you handle asynchronous programming in Python, and where could it be useful in a web-based AI platform?        | Discuss asyncio, concurrency benefits               |
+| Python Core & Advanced  | Explain Python’s asyncio module and provide an example use case for asynchronous requests to AI APIs.                 |                                                     |
+| Python Core & Advanced  | How do you manage dependency injection and module organization in a complex Django project?                           | Architecture & modular design                       |
+| Python Core & Advanced  | What is your approach to writing scalable RESTful APIs in Django? How do you handle pagination, filtering, and rate limiting? | Best practices in REST API design                   |
+| Python Core & Advanced  | Explain Python decorators and how would you apply them in logging or performance monitoring in your backend?          | Use cases of decorators                             |
+| Python Core & Advanced  | What are coroutines and generators? How can generators help in handling large document processing tasks?              | Efficient memory usage                              |
+| Python Core & Advanced  | How would you implement caching in Django to optimize calls to the generative AI models?                             | Techniques like Redis caching                       |
+| AI & Data Processing    | Describe the workflow to process and vectorize documents for semantic search using Python and ChromaDB.               | Integration of vector DB and document embedding     |
+| AI & Data Processing    | How do you handle input prompt engineering dynamically in Python when interacting with various generative AI models?  | Dynamic prompt generation strategies                |
+| AI & Data Processing    | Explain how you would design and implement a Python module to automate test script generation from AI outputs.        | Modular design and pipeline integration             |
+| AI & Data Processing    | Discuss techniques for error handling and validation in AI-generated output pipelines using Python.                   | Robust pipeline design                              |
+| DevOps & Automation     | How have you used Python in creating CI/CD automation scripts? Provide examples of tools or libraries you used.       | Use of libraries like fabric, invoke or CI tools APIs|
+| DevOps & Automation     | Explain how Python scripts can help in managing Docker containers or in automating deployment pipelines.              | Docker SDK for Python                               |
+| DevOps & Automation     | How do you securely handle secrets and environment variables in Python-based deployment scripts?                      | Use of vault solutions, environment variable management|
+| DevOps & Automation     | Describe how you would implement health checks and monitoring for a Python web app running with Gunicorn and Nginx.   | Automation scripts, API endpoints for health checks |
+| Security & Compliance   | How do you ensure secure coding practices in Python for applications dealing with sensitive data?                     | OWASP guidelines, input sanitation                  |
+| Security & Compliance   | What Python libraries and techniques do you use to enforce SSL/TLS and handle secure web communication?               | Libraries like ssl, cryptography                    |
+| Security & Compliance   | How do you perform input validation and threat mitigation (e.g., SQL injection, XSS) in your Django backend?          | Django forms, ORM protections                       |
+| Architecture & Leadership | How do you architect a scalable Python web service that integrates multiple AI APIs and supports concurrency?        | Microservices, async execution                      |
+| Architecture & Leadership | Describe your approach to mentoring developers on Python best practices and code reviews.                           | Knowledge transfer, code quality enforcement        |
+| Architecture & Leadership | How do you balance architectural decisions between performance, maintainability, and security in Python solutions?  | Trade-offs and design principles                    |
+

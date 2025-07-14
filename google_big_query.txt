@@ -1,0 +1,24 @@
+google big query
+	- Extract, transform, load
+airflow
+	- sceheduler
+	- can also schedule and monitor dataflow jobs
+sas to python
+
+pyspark
+	- interface for apache spark
+gcp
+	- google cloud platform that has all google services
+gcs
+	- google cloud storage.. for blob data
+dataflows
+	- pub/sub
+	- transform
+	- sink
+	- looker
+	
+	connect
+	design
+	transform
+	orchestrate - pipeline runs continuosly to keep getting streaming data
+	monitor
